@@ -3,7 +3,7 @@ import cors from 'cors';
 import helmet from 'helmet';
 import morgan from 'morgan';
 import fs from 'fs';
-import { PORT, UPLOAD_DIR } from './config';
+import { UPLOAD_DIR } from './config';    // drop PORT import if unused
 import uploadRouter from './routes/upload';
 import chatRouter   from './routes/chat';
 import { log }      from './logger';
@@ -24,6 +24,10 @@ app.use('/api/upload', uploadRouter);
 app.use('/api/chat',   chatRouter);
 app.use((_req, res) => res.status(404).json({ error: 'Not found' }));
 
-app.listen(PORT, () =>
-  log(`🚀 Gateway listening on http://localhost:${PORT}`)
-);
+// ← use ENV or fall back
+const PORT = Number(process.env.PORT) || 5007;
+const HOST = process.env.HOST || '0.0.0.0';
+
+app.listen(PORT, HOST, () => {
+  console.log(`🚀 Gateway listening on http://${HOST}:${PORT}`);
+});
