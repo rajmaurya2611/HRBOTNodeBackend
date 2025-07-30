@@ -11,7 +11,8 @@ export interface ChatMessage {
 
 const client = axios.create({
   baseURL: LLM_BASE_URL,
-  timeout: 30000,
+  timeout: 60000,
+  proxy: false,
 });
 
 // Helper to go { role, content } → [role, content]
