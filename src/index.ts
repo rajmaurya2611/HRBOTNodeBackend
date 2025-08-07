@@ -6,6 +6,7 @@ import fs from 'fs';
 import { UPLOAD_DIR } from './config';    // drop PORT import if unused
 import uploadRouter from './routes/upload';
 import chatRouter   from './routes/chat';
+import hrHomeRouter from './routes/hrHome';
 import { log }      from './logger';
 
 // ensure upload dir
@@ -22,6 +23,7 @@ app.use(express.json());
 app.get('/healthz', (_req, res) => res.sendStatus(200));
 app.use('/api/upload', uploadRouter);
 app.use('/api/chat',   chatRouter);
+app.use('/api/hr',     hrHomeRouter);
 app.use((_req, res) => res.status(404).json({ error: 'Not found' }));
 
 // ← use ENV or fall back
