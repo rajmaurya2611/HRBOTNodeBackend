@@ -12,8 +12,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@azure/openai": "^2.0.0",
+    "@azure/storage-blob": "^12.29.1",
     "@types/dotenv": "^6.1.1",
-    "axios": "^1.11.0",
+    "axios": "^1.13.2",
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
@@ -21,7 +23,9 @@
     "helmet": "^8.1.0",
     "morgan": "^1.10.1",
     "multer": "^2.0.2",
+    "openai": "^6.9.1",
     "pdf-parse": "^1.1.1",
+    "qs": "^6.14.0",
     "sqlite3": "^5.1.7"
   },
   "devDependencies": {

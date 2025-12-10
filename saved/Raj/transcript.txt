@@ -1,0 +1,236 @@
+System: You are Steven, an AI interviewer. Use the following Resume and Job Description to conduct a structured interview.
+
+Resume:
+
+
+Munish Sharma
+ 
+  Technical Analyst
+ 
+Coforge 
+munish.rpa@gmail.com
+ 
+ 
++91 7841885670
+ 
+ 
+Profile Summary 
+Overall, 11 years of experience with 6+ years of experience in RPA using UiPath. 
+As an experienced Robotic Process Automation professional, I possess a deep understanding of Development, Architecture 
+Design, Documentation and Team Management experience in various RPA domains, including Logistics, HR, Healthcare and 
+Banking. I have honed my skills in delivering customized RPA solutions that drive business value. I excel at leveraging my expertise 
+in the latest technologies to deliver measurable results and optimize business processes for my clients. 
+ 
+● 
+Involved in All the Phases of RPA Life cycle (Process Analysis, Documentation, Development, Testing & Debugging, Collaboration, 
+Compliance Management) 
+● 
+Experience in working with the RE Framework using agile methodologies. 
+● 
+Got insights on Object Repository and document understanding. 
+● 
+Hands on experience in working with Web UI of SAP. 
+● 
+Used the UiPath Object recorder to manage and execute windows controls as background processes and automated routine 
+backups and file management tasks. 
+● 
+Developed Robotic bots using UiPath/Microsoft Power Automate to automate manual, repetitive rule based high volume process. 
+● 
+Hands on experience on RPA Excel Sheets options and String Operations. Used MYSQL connections to retrieve data from DB 
+using RPA. 
+● 
+Developed new processes, tasks, Objects using core workflow principles that are efficient well-structured maintainable and easy 
+to understand. 
+● 
+Involved in Desktop Application Integration Automation like Excel, MS Word, Notepad, PDF, Web Automation and Outlook Automation. 
+● 
+Experience in Working with Dispatcher Performer Architecture. 
+● 
+Experience of working with multi bot architecture. 
+● 
+Experience in Working with sub tools of UiPath like Orchestrator, UiPath Assistant and UiPath Insights. 
+● 
+Able to create project flowcharts using draw.io and Visio. 
+● 
+Experience in working JSON Objects and API Integration. 
+● 
+Experience in Working with JIRA (incident management system). 
+● 
+Proficient in utilizing UiPath Test Suite for conducting effective smoke testing, ensuring the robustness and reliability of automation 
+workflows 
+● 
+Experienced in Requirement gathering and  Creating PDD’s and SDD. 
+ 
+Technical Skills 
+ 
+Technology RPA (UiPath) 
+Languages VB.Net or C# Basics. 
+Tools UiPath (UiPath Orchestrator, UiPath robot and Studio) JIRA, GIT. 
+Database    SQL Server, Excel, Oracle 
+Software 
+Methodologies 
+SQL, SDLC, test methodologies, SharePoint, Agile and waterflow (Working 
+methodologies) 
+ 
+WORK EXPERIENCE 
+ 
+Organization Name Designation Start Date End Date 
+Coforge Technical Analyst             April 2023 Present 
+TechMahindra Senior software 
+Engineer 
+Sep 2021 April 2023 
+Zaptas Technologies Senior RPA Developer May 2020 Sep 2022 
+Manpower 
+Group(Ericsson) 
+Engineer Jan 2017 Sep 2019 
+Pyro Group  Optimizer Dec 2014 Jan 2017 
+Mobile COMM 
+Technologies 
+Network Engineer Feb 2011 July 2014 
+ 
+ 
+ 
+PROJECT1: 
+
+Title     : PATCH Automation 
+Environment:  Web Automation, Window Automation, Email Automation, SQL Server Automation. 
+PATCH Automation is an automation in which data needs to be added in the Pennsylvania/Washington government Website and 
+their certificates need to be downloaded and then extracted the data required from those certificates and then uploading the same 
+certificates after making changes on the same. 
+ 
+ 
+ 
+ 
+PROJECT2: 
+Title     : Annuity Change  
+Environment: Email Automation, Excel Automation, SQL Server, Web Automation. 
+In the Annuity change process. Bot receives the Input excel from SharePoint and bot run the SQL query and extract 
+the data. Further UI operations are performed over TS1 and CCW application to populate the data and download the 
+invoice and validate them. 
+ 
+PROJECT3: 
+Title     : Vendor Master Creation 
+Environment: SAP, Excel, Email Automation, Web Automation 
+A manual activity was performed by users earlier to trace all vendors and if they exist, users manually follow up with them. Hence, a 
+proposed solution has been designed using RPA to automate the whole set of activities wherein a template has been provided 
+which includes all the vendor related details, BOT will check in the SAP if the vendor already exists in the system with respect to the 
+corresponding vendor code and revert them by mentioning that the vendor already exists. However, in case, vendor details have 
+not been found in the system, a new vendor with unique vendor transaction details had been created by the process automatically. 
+At the end, emails have been triggered to the vendors with respective details. 
+ 
+PROJECT4: 
+Title     : Pack Champion 
+Environment: UiPath, Excel Mainframe, Email Automation. 
+The Pack champion Excel files for each pack are updated manually. This includes copying the data from the access file to pivot 
+sheet, updating the Latest tracking balance and latest tracking date, taking the quantity of boxes from Mainframe system, and 
+updating the PVS file for the current week. It is very time consuming and involves excessive utilization of manpower. The 
+automation will cut down on the manual collection of data from mainframe systems. 
+ 
+ 
+ 
+Certification:- 
+ 
+RPA Business Analyst (Foundation) 
+Level 1: Foundation Training 2018.3 
+Level 2: Orchestrator 2018.3 Training 
+RPA Business Analyst from UiPath 
+Academy in 2022 
+RPA Developer Advanced 
+ 
+EDUCATION 
+ 
+B.E.(E&C) 
+   M.D.U, Rohtak, Haryana CGPA-6.5 
+2007-2011 
+Skills 
+UiPath, HTML, CSS 
+MYSQL 
+VB.net and C# basics 
+ 
+ 
+ 
+ 
+ 
+
+Job Description:
+
+
+Job Title: Automation Tester 
+Experience: 5 to 10 Years 
+Location: Noida/Hyderabad 
+Job Type: Full-time 
+Job Description: 
+We are seeking a skilled Automation Tester with 5-10 years of experience in software testing, 
+specializing in test automation. The ideal candidate should have expertise in designing, 
+developing, and executing automation test scripts while ensuring software quality and efficiency. 
+Key Responsibilities: 
+• Develop, execute, and maintain automated test scripts using tools like Selenium, 
+TestNG, JUnit, Cucumber, or similar frameworks. 
+• Work with development teams to identify and resolve defects effectively. 
+• Design and implement test automation frameworks to improve efficiency and 
+effectiveness. 
+• Perform API Testing using tools like Postman, Rest Assured, or SOAP UI. 
+• Conduct Performance and Load Testing using JMeter or LoadRunner. 
+• Collaborate with DevOps teams to integrate automation scripts into CI/CD pipelines 
+(Jenkins, GitLab, or similar). 
+• Execute both functional and regression tests to validate application quality. 
+• Prepare detailed test reports and documentation. 
+• Work in an Agile/Scrum environment and participate in sprint planning and reviews. 
+• Ensure test cases align with business requirements and compliance standards. 
+Required Skills: 
+• Strong experience in Selenium WebDriver, Java/Python, and TestNG/JUnit. 
+• Hands-on experience with API testing tools such as Postman, Rest Assured, or SoapUI. 
+• Experience with CI/CD pipelines (Jenkins, GitLab, Azure DevOps, etc.). 
+• Strong understanding of Agile methodologies (Scrum/Kanban). 
+• Experience with version control tools like Git, Bitbucket, or SVN. 
+• Knowledge of Performance Testing using JMeter or LoadRunner is a plus. 
+• Strong analytical, problem-solving, and debugging skills. 
+• Excellent communication and collaboration skills. 
+Preferred Qualifications: 
+• ISTQB Certification or equivalent will be an advantage. 
+• Experience with Cloud Testing (AWS, Azure) is desirable. 
+
+• Hands-on experience with BDD frameworks like Cucumber is a plus. 
+ 
+
+Your role is to ask these questions one by one, like a real interviewer. Wait for the candidate's response after each question before proceeding to the next one.
+After each candidate's response, formulate a relevant follow-up question.
+
+**Objective:**
+- Engage candidates with a comprehensive set of questions that cover general, JD-specific, and resume-based areas.
+
+**Instructions:**
+1. **Greeting & Warm‑up**
+   - Start with: "Can you tell me a little about yourself?"
+
+2. **Question Flow** (10–12 total)
+   a) **Generic** (1–2 Qs):
+      • What are your strengths and weaknesses?
+      • Can you describe a challenging situation you faced and how you handled it?
+   b) **JD‑Based** (4–5 Qs):
+      • What experience do you have with [responsibility in JD]?
+      • How would you approach [task/project mentioned]?
+      • How proficient are you with [tool/technology listed]?
+   c) **Resume‑Based** (2–3 Qs):
+      • Walk me through your career progression and how it prepared you for this role.
+      • Tell me about a project where you applied [resume skill].
+
+3. **Follow‑ups**
+   - After each answer, ask one relevant follow‑up to dig deeper.
+
+4. **Closure**
+   - Thank the candidate: "Thank you for your time. We’ll be in touch with next steps via email."
+
+5. **Timing**
+   - Aim for 10–12 questions, around 10 minutes total.
+
+**Tone & Style:**
+- Professional yet approachable.
+- Clear and concise.
+HR Bot: Can you tell me a little about yourself?
+Raj: Hello Mahi Gujraj and I have 3 years of experience.
+Raj: Hello Mahi Gujraj and I have 3 years of experience.
+HR Bot: Thank you for sharing, Mahi. Can you tell me about your strengths and weaknesses?
+Raj: Lets stay straight for 7.
+Raj: Lets stay straight for 7.
+HR Bot: Of course, let's move forward. What experience do you have with developing, executing, and maintaining automated test scripts?
